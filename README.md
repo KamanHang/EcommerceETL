@@ -1,6 +1,6 @@
 
 # Brazillian Ecommerce ETL Project 
-<i>*Note: This project is entirely made for learning pupose to understand the basic workoflow of ETL pipeline and kickstart the journey as Data Engineer*</i> 
+<i>*Note: This project is entirely made for learning pupose to understand the basic workoflow of ETL pipeline and kickstart journey as Data Engineer*</i> 
 ## •	Basic ETL Architecture
 
 <div align="center">
