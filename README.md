@@ -1,6 +1,6 @@
 
 # Brazillian Ecommerce ETL Project 
-<i>*Note: This project is entirely made for learning pupose to understand the basic workoflow of ETL pipeline and kickstart the journey as Data Engineer*</i> 
+<i>*Note: This project is entirely made for learning pupose to understand the basic workoflow of ETL pipeline and kickstart journey as Data Engineer*</i> 
 ## •	Basic ETL Architecture
 
 <div align="center">
@@ -21,7 +21,8 @@
 - Schema Design (Relational, Star and Snowflake Schema)
 - Data Extraction from PostgreSQL using psycopg and SQLAlchemy modules
 - Data CLeaning, Transformation and Loading using Python (Pandas, Numpy, Scikit-learn, SimpleImputer)
-- Data Warehousing using Snowflake 
+- Build Data Warehouse based on Business requirements
+- Data Warehousing using Snowflake
 
 # Dataset used for this project
 - Brazillian Ecommerce Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
