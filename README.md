@@ -1,11 +1,10 @@
-
+![archi](https://github.com/KamanHang/EcommerceETL/assets/117423632/4c16edfa-b346-4b58-8114-290c568a4b6c)
 # Brazillian Ecommerce ETL Project 
 <i>*Note: This project is entirely made for learning pupose to understand the basic workoflow of ETL pipeline and kickstart journey as Data Engineer*</i> 
 ## •	Basic ETL Architecture
 
-<div align="center">
-	<img src="https://github.com/KamanHang/EcommerceETL/assets/117423632/70bbd684-67af-4cf1-98df-34dc9793efaf">
-</div>
+![Animation](https://github.com/KamanHang/EcommerceETL/assets/117423632/722d2653-ec6e-461a-ab09-d877f89d75e3)
+
 
 # Libraries/Packages used
 - Pandas
