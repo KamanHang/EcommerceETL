@@ -3,8 +3,7 @@
 <i>*Note: This project is entirely made for learning pupose to understand the basic workoflow of ETL pipeline and kickstart journey as Data Engineer*</i> 
 ## •	Basic ETL Architecture
 
-![Animation](https://github.com/KamanHang/EcommerceETL/assets/117423632/722d2653-ec6e-461a-ab09-d877f89d75e3)
-
+![up](https://github.com/KamanHang/EcommerceETL/assets/117423632/a7b1c0eb-c0ee-43d2-94ae-fc5d338a3544)
 
 # Libraries/Packages used
 - Pandas
